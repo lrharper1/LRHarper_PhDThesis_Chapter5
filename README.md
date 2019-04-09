@@ -7,7 +7,7 @@ Curated reference databases used in analyses (GenBank/fasta format) [(here)](htt
 
 Notebooks to run metaBEAT pipeline [(here)](https://github.com/lrharper1/LRHarper_PhDThesis_Chapter5/tree/master/Jupyter_notebooks)
 
-NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/lrharper1/LRHarper_PhDThesis_Chapter5/tree/master/Sample_accessions.tsv)
+NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/lrharper1/LRHarper_PhDThesis_Chapter5/tree/master/Data/Sample_accessions.tsv)
 
 Taxonomic assignment results [(here)](https://github.com/lrharper1/LRHarper_PhDThesis_Chapter5/tree/master/Data/Taxonomic_Assignment_Results)
 
